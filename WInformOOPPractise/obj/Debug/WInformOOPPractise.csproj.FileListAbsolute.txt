@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\WInformOOPPractise\WInformOOPPractise\bin\Debug\WInformOOPPractise.exe.config
+C:\Users\User\source\repos\WInformOOPPractise\WInformOOPPractise\bin\Debug\WInformOOPPractise.exe
+C:\Users\User\source\repos\WInformOOPPractise\WInformOOPPractise\bin\Debug\WInformOOPPractise.pdb
+C:\Users\User\source\repos\WInformOOPPractise\WInformOOPPractise\obj\Debug\WInformOOPPractise.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WInformOOPPractise\WInformOOPPractise\obj\Debug\WInformOOPPractise.Form1.resources
+C:\Users\User\source\repos\WInformOOPPractise\WInformOOPPractise\obj\Debug\WInformOOPPractise.Properties.Resources.resources
+C:\Users\User\source\repos\WInformOOPPractise\WInformOOPPractise\obj\Debug\WInformOOPPractise.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WInformOOPPractise\WInformOOPPractise\obj\Debug\WInformOOPPractise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WInformOOPPractise\WInformOOPPractise\obj\Debug\WInformOOPPractise.exe
+C:\Users\User\source\repos\WInformOOPPractise\WInformOOPPractise\obj\Debug\WInformOOPPractise.pdb
